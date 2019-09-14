@@ -1,3 +1,4 @@
 import React from "react"
+import Slides from "../components/slides"
 
-export default () => <div>Hello world!</div>
+export default () => <Slides><h1>Hello! I am new Slides</h1></Slides>
